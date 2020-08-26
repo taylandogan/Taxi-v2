@@ -1,3 +1,11 @@
+# Ignore .gif and .json for recordings
+*.gif
+*.json
+*.meta.json
+
+# Editor related
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

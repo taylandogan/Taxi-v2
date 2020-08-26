@@ -1,2 +1,2 @@
-# Taxi-v2
-Solution to Taxi-v2 task of OpenAI gym
+# Taxi-v3
+Solution to Taxi-v3 task of OpenAI gym
